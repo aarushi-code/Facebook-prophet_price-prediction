@@ -5,3 +5,5 @@ Prophet is a procedure for forecasting time-series data based on an additive mod
 
 Fore more information please check out this-
 https://research.fb.com/prophet-forecasting-at-scale/
+
+The above project utilises prophet package to predict future prices of avocados( time-series analysis)
